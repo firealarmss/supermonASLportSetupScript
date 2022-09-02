@@ -27,5 +27,3 @@ sleep 1
 echo "go to https://hamvoip.org/howto/supermon_howto.pdf"
 sleep 1
 echo "directory names may be a bit different but will give an idea of the setup"
-
-You have new mail in /var/mail/repeater
