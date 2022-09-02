@@ -1,4 +1,7 @@
 #!/bin/bash
+####################################
+##### Written by Caleb, KO4UYJ #####
+####################################
 git clone https://github.com/AllStarLink/ASL-Supermon.git
 sleep 5
 echo "Cloned supermon"
