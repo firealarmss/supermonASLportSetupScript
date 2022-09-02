@@ -1,4 +1,4 @@
-# supermonASLportSetupScript
+# supermon ASL port Setup Script
 Commands to run first:\
 sudo apt update\
 sudo apt install php\
